@@ -22,6 +22,11 @@
   "dependencies": {
     "yargs": "^15.3.1"
   },
+  "dependencies": {
+  "@google-cloud/trace-agent": "^x.x.x",
+  // other dependencies...
+}
+
   "standard": {
     "globals": [
       "describe",
